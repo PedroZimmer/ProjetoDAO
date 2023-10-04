@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10185d1d-8f5f-44d2-b62b-97a786224639" name="Changes" comment="aula 277">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/entities/Seller.java" afterDir="false" />
+    <list default="true" id="10185d1d-8f5f-44d2-b62b-97a786224639" name="Changes" comment="gitIgnore">
       <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/dao/DaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/DaoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/dao/DepartmentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/DepartmentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/dao/SellerDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/SellerDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/dao/model/dao/impl/SellerDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -63,6 +66,11 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -99,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696430584893</updated>
-      <workItem from="1696430586090" duration="3201000" />
+      <workItem from="1696430586090" duration="5565000" />
     </task>
     <task id="LOCAL-00001" summary="primeiro commit">
       <option name="closed" value="true" />
@@ -117,7 +125,47 @@
       <option name="project" value="LOCAL" />
       <updated>1696438238231</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="aula 277">
+      <option name="closed" value="true" />
+      <created>1696438629694</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696438629694</updated>
+    </task>
+    <task id="LOCAL-00004" summary="aula 278">
+      <option name="closed" value="true" />
+      <created>1696438648547</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696438648547</updated>
+    </task>
+    <task id="LOCAL-00005" summary="aula 279 DAO">
+      <option name="closed" value="true" />
+      <created>1696438884313</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696438884313</updated>
+    </task>
+    <task id="LOCAL-00006" summary="aula 280 DaoFactory">
+      <option name="closed" value="true" />
+      <created>1696439348877</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696439348877</updated>
+    </task>
+    <task id="LOCAL-00007" summary="gitIgnore">
+      <option name="closed" value="true" />
+      <created>1696439366855</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696439366855</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +174,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primeiro commit" />
     <MESSAGE value="aula 277" />
-    <option name="LAST_COMMIT_MESSAGE" value="aula 277" />
+    <MESSAGE value="aula 278" />
+    <MESSAGE value="aula 279 DAO" />
+    <MESSAGE value="aula 280 DaoFactory" />
+    <MESSAGE value="gitIgnore" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitIgnore" />
   </component>
 </project>
