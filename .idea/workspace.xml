@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10185d1d-8f5f-44d2-b62b-97a786224639" name="Changes" comment="primeiro commit">
-      <change afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/entities/Department.java" afterDir="false" />
+    <list default="true" id="10185d1d-8f5f-44d2-b62b-97a786224639" name="Changes" comment="aula 277">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/entities/Seller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +51,7 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "Pedro",
     "last_opened_file_path": "C:/#Dev/ProjetoDAO Curso Udemy",
@@ -97,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696430584893</updated>
-      <workItem from="1696430586090" duration="2831000" />
+      <workItem from="1696430586090" duration="3201000" />
     </task>
     <task id="LOCAL-00001" summary="primeiro commit">
       <option name="closed" value="true" />
@@ -107,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696430758176</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="aula 277">
+      <option name="closed" value="true" />
+      <created>1696438238231</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696438238231</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primeiro commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="primeiro commit" />
+    <MESSAGE value="aula 277" />
+    <option name="LAST_COMMIT_MESSAGE" value="aula 277" />
   </component>
 </project>
