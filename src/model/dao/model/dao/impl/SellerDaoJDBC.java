@@ -47,7 +47,6 @@ public class SellerDaoJDBC implements SellerDao {
                             "ON seller.DepartmentId = department.Id " +
                             "WHERE seller.Id = ?"
             );
-
             st.setInt(1, id);
             rs = st.executeQuery();
             if (rs.next()) {
@@ -57,9 +56,6 @@ public class SellerDaoJDBC implements SellerDao {
                 return obj;
             }
             return null;
-
-
-
         } catch (SQLException e) {
             throw new DbException(e.getMessage());
         }
