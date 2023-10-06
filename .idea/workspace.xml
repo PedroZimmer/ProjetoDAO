@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10185d1d-8f5f-44d2-b62b-97a786224639" name="Changes" comment="aula 285 insert">
+    <list default="true" id="10185d1d-8f5f-44d2-b62b-97a786224639" name="Changes" comment="daoFactory createDepartmentDao">
+      <change afterPath="$PROJECT_DIR$/src/application/TestDepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/dao/model/dao/impl/DepartmentDaoJDBC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/dao/model/dao/impl/SellerDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,7 @@
       <recent name="C:\#Dev\ProjetoDAO Curso Udemy\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestDepartmentDao">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="application.Program" />
       <module name="ProjetoDAO Curso Udemy" />
@@ -91,8 +91,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestDepartmentDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.TestDepartmentDao" />
+      <module name="ProjetoDAO Curso Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestDepartmentDao" />
         <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
@@ -108,7 +122,7 @@
       <workItem from="1696430586090" duration="8624000" />
       <workItem from="1696517085860" duration="2125000" />
       <workItem from="1696550859525" duration="252000" />
-      <workItem from="1696610138158" duration="1593000" />
+      <workItem from="1696610138158" duration="3452000" />
     </task>
     <task id="LOCAL-00001" summary="primeiro commit">
       <option name="closed" value="true" />
@@ -214,7 +228,31 @@
       <option name="project" value="LOCAL" />
       <updated>1696611253712</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="aula 286 update">
+      <option name="closed" value="true" />
+      <created>1696611826420</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1696611826420</updated>
+    </task>
+    <task id="LOCAL-00015" summary="aula 287 delete">
+      <option name="closed" value="true" />
+      <created>1696612096974</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1696612096974</updated>
+    </task>
+    <task id="LOCAL-00016" summary="daoFactory createDepartmentDao">
+      <option name="closed" value="true" />
+      <created>1696613206589</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1696613206589</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,6 +271,9 @@
     <MESSAGE value="aula 283 findByDepartment" />
     <MESSAGE value="aula 284 findAll" />
     <MESSAGE value="aula 285 insert" />
-    <option name="LAST_COMMIT_MESSAGE" value="aula 285 insert" />
+    <MESSAGE value="aula 286 update" />
+    <MESSAGE value="aula 287 delete" />
+    <MESSAGE value="daoFactory createDepartmentDao" />
+    <option name="LAST_COMMIT_MESSAGE" value="daoFactory createDepartmentDao" />
   </component>
 </project>
