@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10185d1d-8f5f-44d2-b62b-97a786224639" name="Changes" comment="DepartmentDaoJDBC insert">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="10185d1d-8f5f-44d2-b62b-97a786224639" name="Changes" comment="DepartmentDaoJDBC FINDBYID">
       <change beforePath="$PROJECT_DIR$/src/application/TestDepartmentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/TestDepartmentDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/model/dao/model/dao/impl/DepartmentDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/model/dao/impl/DepartmentDaoJDBC.java" afterDir="false" />
     </list>
@@ -124,7 +123,7 @@
       <workItem from="1696550859525" duration="252000" />
       <workItem from="1696610138158" duration="3608000" />
       <workItem from="1696789787852" duration="35000" />
-      <workItem from="1696891947231" duration="3251000" />
+      <workItem from="1696891947231" duration="3552000" />
     </task>
     <task id="LOCAL-00001" summary="primeiro commit">
       <option name="closed" value="true" />
@@ -262,7 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696613699521</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="DepartmentDaoJDBC FINDBYID">
+      <option name="closed" value="true" />
+      <created>1696897752977</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1696897752977</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,6 +292,7 @@
     <MESSAGE value="aula 287 delete" />
     <MESSAGE value="daoFactory createDepartmentDao" />
     <MESSAGE value="DepartmentDaoJDBC insert" />
-    <option name="LAST_COMMIT_MESSAGE" value="DepartmentDaoJDBC insert" />
+    <MESSAGE value="DepartmentDaoJDBC FINDBYID" />
+    <option name="LAST_COMMIT_MESSAGE" value="DepartmentDaoJDBC FINDBYID" />
   </component>
 </project>

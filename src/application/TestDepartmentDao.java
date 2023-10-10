@@ -22,18 +22,10 @@ public class TestDepartmentDao {
         Department dep1 = departmentDao.findById(1);
         System.out.println(dep1);
 
-
-
-//        System.out.println("UPDATE");
-//
-//        department.setName("Arabe");
-//        departmentDao.update(department);
-//        System.out.println();
-
-
-
-
-
+        System.out.println("UPDATE");
+        department.setName("Arabe");
+        departmentDao.update(department);
+        System.out.println(department);
 
 
     }
